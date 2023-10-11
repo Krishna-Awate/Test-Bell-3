@@ -1,0 +1,13 @@
+/*
+    Do you need a dedicated CSS file per HTML page in addition to main.css?
+*/
+
+
+.mines-img:hover {
+    cursor: url('/images/pickaxe-cursor.png'), auto;
+  }
+  
+  .woods-img:hover {
+    cursor: url('/images/axe-cursor.png'), auto;
+  }
+  

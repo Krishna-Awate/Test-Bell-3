@@ -1,0 +1,41 @@
+/*
+    main.css is the usual name for a CSS which will be used on all/most pages.
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: rgb(0, 0, 0);
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    margin: 0; 
+    padding: 0; 
+}
+
+li{
+    margin-left: 10px; 
+    list-style: none; 
+
+}
+
+a {
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:hover {
+    background-color: rgb(85, 85, 85);
+    border-radius: 5px;
+}
+
+
+
+
+
